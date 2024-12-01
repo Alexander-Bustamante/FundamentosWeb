@@ -48,6 +48,7 @@ body{
     border: none;
     background-color: #d83515;
     font-family: 24px FlameSans-Regular-5;
+    font-size: 2vh;
     padding: 1vh 2vh;
     height: 4vh;
     max-height: 6vh;
