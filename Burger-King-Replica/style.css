@@ -3,6 +3,7 @@
     transition: 300ms;
     margin: 0;
     padding: 0;
+    outline: solid black;
 }
 
 body{
@@ -31,9 +32,6 @@ body{
     font-size: 1.9vh;
     align-content: center;
 }
-
-
-hola
 
 .button_nav:hover{
     border: none;
@@ -427,7 +425,7 @@ footer{
     max-width: 175vh;
     display: flex;
     flex-direction: row;
-    margin-top: -2vh;
+    margin-top: 7vh;
     justify-content: space-between;
 }
 
@@ -477,4 +475,28 @@ hr{
     height: 1px;
     width: 150vh;
     max-width: 175vh;
+}
+
+#redes_derechos{
+    width: 150vh;
+    max-width: 175vh;
+    margin-top: 6vh;
+}
+
+.final-footer{
+    display: flex;
+    flex-direction: row;
+}
+
+.derechos-reservados, .redes-sociales{
+    width: 75vh;
+    max-width: 87.5vh;
+}
+
+.derechos-reservados{
+    dis
+}
+
+.red-social{
+    height: 4vh;
 }
