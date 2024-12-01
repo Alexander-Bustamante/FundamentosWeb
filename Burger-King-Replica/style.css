@@ -7,7 +7,6 @@
     transition: 300ms;
     margin: 0;
     padding: 0;
-    outline: solid black;
 }
 
 body{
@@ -596,6 +595,10 @@ hr{
 .red-social{
     height: 3.5vh;
     margin-left: 3vh;
+}
+
+.red-social:hover{
+    cursor: pointer;
 }
 
 /* --------------------------------------------- */
